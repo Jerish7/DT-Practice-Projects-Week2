@@ -1,4 +1,4 @@
-# DataScience Practice Projects
+# Week2 DataScience Practice Projects
 
 1.Bigmart Sales Data Analysis
 
